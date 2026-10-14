@@ -2,6 +2,9 @@
 
 Website edukasi luar angkasa statis dengan gaya **Neo-Brutalism**, dibuat menggunakan HTML5, CSS3, dan Vanilla JavaScript.
 
+Demo Web
+https://nasadeepspace-initiative.vercel.app/
+
 ## Halaman
 
 - `index.html`: Home, hero, ringkasan, dan planet pilihan.
